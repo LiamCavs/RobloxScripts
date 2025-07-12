@@ -1,4 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sae-spy/Steal-a-brainrot-scripts/refs/heads/main/Key.lua"))()
 while task.wait(0.2) do
-    print("Hi, " .. game.Players.LocalPlayer.Name .. " Get trolled!")
+    print("Hi, " .. game.Players.LocalPlayer.Name .. " get trolled!")
 end
